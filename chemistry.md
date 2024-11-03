@@ -32,6 +32,15 @@ to upload a file, you will need to a .cif file. So only press "upload" after sel
 
 ![image](https://github.com/user-attachments/assets/42edd4cc-8861-439d-a76f-c6a9ee1e958d)
 
+important, you will only be able to read the file through "view" if the .cif file is formatted correctly;
+
+![image](https://github.com/user-attachments/assets/deb453c4-4dad-4dcf-9f82-7c74b1e33e7b)
+
+![image](https://github.com/user-attachments/assets/5eca1094-884d-4f2a-aa2d-e104d065f259)
+
+
+
+
 
 
 
